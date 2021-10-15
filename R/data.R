@@ -7,7 +7,7 @@
 #' Several alternative parcellation schemes were tested this way, and no 
 #' other parcellation was as homogenous as or had as large a difference compared 
 #' with its null model.
-#' annot files were aquired from (\href{https://github.com/faskowit/multiAtlasTT}{faskowit/multiAtlasTT})
+#' annot files were acquired from (\href{https://github.com/faskowit/multiAtlasTT}{faskowit/multiAtlasTT})
 #'
 #' @docType data
 #' @name gordon
