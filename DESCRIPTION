@@ -1,11 +1,10 @@
 Package: ggsegGordon
 Title: gordon datasets for the ggseg-plotting tool
 Version: 0.0.1
-Authors@R: c(person("First name", 
-                    "Last name", 
-                    email = "", 
+Authors@R: c(person("Athanasia Mo", "Mowinckel", 
+                    email = "a.m.mowinckel@psykologi.uio.no", 
                     role = c("aut", "cre"),
-                    comment = c(ORCID = "")))
+                    comment = c(ORCID = "0000-0002-5756-0223")))
 Description: This is a support package for the ggseg, and ggseg3d packages.
     It contains the gordon atlases to plot using functions from those two packages.
 License: MIT + file LICENSE
